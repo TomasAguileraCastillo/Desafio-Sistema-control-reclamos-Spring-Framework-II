@@ -1,7 +1,7 @@
 Desafío - Sistema control reclamos
 --
 
-En este desafío validaremos nuestros conocimientos de Spring Data JPA con Spring Security.
+En  este desafío validaremos nuestros conocimientos de Spring Data JPA con Spring Security.
 Para lograrlo, necesitarás aplicar todo lo aprendido en esta unidad.
 Lee todo el documento antes de comenzar el desarrollo individual de este desafío, para
 asegurarte de tener el máximo de puntaje y enfocar bien los esfuerzos. Una vez terminado el
